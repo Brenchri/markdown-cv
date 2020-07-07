@@ -6,8 +6,8 @@ title: Christoph Brendel's CV
 Student, Working Student, Geosciences
 
 <div id="webaddress">
-<a href="brenchri.github.io">brenchri.github.io</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My Website</a>
+<a href="https://brenchri.github.io">https://brenchri.github.io</a>
+| <a href="https://brenchri.github.io">My Website</a>
 </div>
 
 
