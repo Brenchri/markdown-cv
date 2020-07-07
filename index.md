@@ -17,12 +17,12 @@ Working on my Bachelor thesis at the Geological Institute in Hamburg
 
 ### Specialized in
 
-Geosciences, GIS, Python, gplates
+Geosciences, GIS, python, gplates
 
 
 ### Research interests
 
-Geosciences, earth observation,geoinformatics
+Geosciences, earth observation, geoinformatics
 
 
 ## Education
