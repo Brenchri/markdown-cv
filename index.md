@@ -6,7 +6,7 @@ title: Christoph Brendel's CV
 Student, Working Student, Geosciences
 
 <div id="webaddress">
-<a href="brenchri.github.io">brenchri.github.io</a>
+<a href="https://brenchri.github.io">brenchri.github.io</a>
 | <a href="https://brenchri.github.io/">My Website</a>
 </div>
 
