@@ -59,9 +59,14 @@ Leave no data gaps - geodata modelling using RailTopoModel
 
 ## Occupation
 
+
+`2019`
+__University of Helsinki__, Hamburg
+
+- Internship
+
 `2019-now`
 __SIGNON__, Hamburg
-
 
 
 <!-- ### Footer
