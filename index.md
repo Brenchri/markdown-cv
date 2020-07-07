@@ -34,6 +34,7 @@ __Carl-Jacob-Burckhardt-Gymnasium Lübeck__
 __University of Hamburg__
 
 - Student
+
 `2018-2019`
 __University of Helsinki__
 
